@@ -13,6 +13,7 @@
     min-height: 25vh;
     height: 270px;
     margin-bottom: 40px;
+    object-fit: cover;
 }
 
 .button {

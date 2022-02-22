@@ -10,7 +10,7 @@
 #home {
     background-image: url(../image/top.jpg);
     width: 100%;
-    min-height: 50vh;
+    min-height: 25vh;
     height: 270px;
     margin-bottom: 40px;
 }

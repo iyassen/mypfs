@@ -10,10 +10,10 @@
 #home {
     background-image: url(../image/top.jpg);
     width: 100%;
-    min-height: 300vh;
+    min-height: 100vh;
     height: 300px;
     margin-bottom: 40px;
-    object-fit: none;
+    object-fit: cover;
 }
 
 .button {

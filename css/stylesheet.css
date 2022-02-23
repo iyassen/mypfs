@@ -8,12 +8,12 @@
 }
 
 #home {
+    transition: opacity 6s;
     background-image: url(../image/top.jpg);
     width: 100%;
     min-height: 100vh;
     height: 300px;
     margin-bottom: 40px;
-    transition: opacity 6s;
 }
 
 .button {

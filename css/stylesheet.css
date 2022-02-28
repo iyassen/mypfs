@@ -6,8 +6,13 @@
     background-repeat: no-repeat;
     overflow: scroll;
     border-radius: ５px;
+    
+}
+
+.big-bg a{
     text-align: center;
 }
+
 
 #home {
     transition: opacity 6s;

@@ -6,7 +6,6 @@
     background-repeat: no-repeat;
     overflow: scroll;
     border-radius: ４px;
-    text-align: center;
 }
 
 #home {
@@ -42,6 +41,10 @@ h1 { color: rgb(74, 27, 205);
 h2 {
     color: white; 
     font-size: 30px;
+    text-align: center;
+}
+
+a {
     text-align: center;
 }
 

@@ -6,7 +6,6 @@
     background-repeat: no-repeat;
     overflow: scroll;
     border-radius: ４px;
-    margin:0 auto
 }
 
 #home {
@@ -25,7 +24,6 @@
     background:rgb(31, 185, 170);
     padding: 10px 20px;
     text-decoration: none;
-    margin:0 auto
 }
 
 #middle h1{
@@ -44,10 +42,6 @@ h2 {
     color: white; 
     font-size: 30px;
     text-align: center;
-}
-
-a {
-    margin:0 auto
 }
 
 .bg{

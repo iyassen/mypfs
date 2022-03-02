@@ -5,7 +5,6 @@
     background-position: center top;
     background-repeat: no-repeat;
     overflow: scroll;
-    border-radius: 8px;
 }
 
 #home {
@@ -24,6 +23,7 @@
     background:rgb(31, 185, 170);
     padding: 10px 20px;
     text-decoration: none;
+     border-radius: 8px;
 }
 
 #middle h1{

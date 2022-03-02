@@ -23,7 +23,8 @@
     background:rgb(31, 185, 170);
     padding: 10px 20px;
     text-decoration: none;
-     border-radius: 8px;
+    border-radius: 8px;
+    margin: 50px 100px;
 }
 
 #middle h1{

@@ -67,8 +67,8 @@ footer p {
     font-size: 100px;
 }
 
-realname {
-       
+.realname {
+    color: rgb(8, 4, 4);
 }
 
 #page_top{

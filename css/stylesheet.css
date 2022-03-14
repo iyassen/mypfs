@@ -52,6 +52,13 @@ h2 {
     text-align: center;
 }
 
+#bg h1{
+    color: rgb(8, 4, 4); 
+    font-size: 30px;
+    text-align: center;
+    outline: 1px red solid;
+}
+
 footer {
     background: #432;
     text-align: center;

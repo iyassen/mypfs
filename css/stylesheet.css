@@ -52,6 +52,10 @@ h2 {
     text-align: center;
 }
 
+input{
+border:1px solid;
+}
+
 footer {
     background: #432;
     text-align: center;

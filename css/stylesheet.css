@@ -15,8 +15,8 @@
     height: 300px;
     margin-bottom: 40px;
     animation-name: fade;
-    animation-duration: 1s;
-    animation-iteration-count: 5;
+    animation-duration: 3s;
+    animation-iteration-count: 0;
 }
 
 @keyframes fade{
